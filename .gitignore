@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+model.pkl
+dataset
+catboost_info
+.ipynb_checkpoints
