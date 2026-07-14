@@ -221,3 +221,4 @@ model.pkl
 dataset
 catboost_info
 .ipynb_checkpoints
+.idea

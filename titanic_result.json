@@ -1,0 +1,152 @@
+{
+    "Logistic Regression": {
+        "Cross Validation Accuracy": 0.8078,
+        "train": {
+            "Accuracy": 0.8111,
+            "Precision": 0.825,
+            "Recall": 0.7279,
+            "F1 Score": 0.7734
+        },
+        "test": {
+            "Accuracy": 0.7792,
+            "Precision": 0.7308,
+            "Recall": 0.6552,
+            "F1 Score": 0.6909
+        }
+    },
+    "K-Neighbors Classifier": {
+        "Cross Validation Accuracy": 0.7882,
+        "train": {
+            "Accuracy": 0.8534,
+            "Precision": 0.8421,
+            "Recall": 0.8235,
+            "F1 Score": 0.8327
+        },
+        "test": {
+            "Accuracy": 0.7532,
+            "Precision": 0.6667,
+            "Recall": 0.6897,
+            "F1 Score": 0.678
+        }
+    },
+    "Decision Tree": {
+        "Cross Validation Accuracy": 0.7231,
+        "train": {
+            "Accuracy": 0.873,
+            "Precision": 0.9076,
+            "Recall": 0.7941,
+            "F1 Score": 0.8471
+        },
+        "test": {
+            "Accuracy": 0.7403,
+            "Precision": 0.6552,
+            "Recall": 0.6552,
+            "F1 Score": 0.6552
+        }
+    },
+    "Random Forest": {
+        "Cross Validation Accuracy": 0.7848,
+        "train": {
+            "Accuracy": 0.9218,
+            "Precision": 0.9375,
+            "Recall": 0.8824,
+            "F1 Score": 0.9091
+        },
+        "test": {
+            "Accuracy": 0.7922,
+            "Precision": 0.7097,
+            "Recall": 0.7586,
+            "F1 Score": 0.7333
+        }
+    },
+    "Extra Trees": {
+        "Cross Validation Accuracy": 0.7589,
+        "train": {
+            "Accuracy": 0.987,
+            "Precision": 1.0,
+            "Recall": 0.9706,
+            "F1 Score": 0.9851
+        },
+        "test": {
+            "Accuracy": 0.7403,
+            "Precision": 0.6667,
+            "Recall": 0.6207,
+            "F1 Score": 0.6429
+        }
+    },
+    "AdaBoost": {
+        "Cross Validation Accuracy": 0.7979,
+        "train": {
+            "Accuracy": 0.8111,
+            "Precision": 0.825,
+            "Recall": 0.7279,
+            "F1 Score": 0.7734
+        },
+        "test": {
+            "Accuracy": 0.7792,
+            "Precision": 0.7308,
+            "Recall": 0.6552,
+            "F1 Score": 0.6909
+        }
+    },
+    "Gradient Boosting": {
+        "Cross Validation Accuracy": 0.7783,
+        "train": {
+            "Accuracy": 0.8404,
+            "Precision": 0.8783,
+            "Recall": 0.7426,
+            "F1 Score": 0.8048
+        },
+        "test": {
+            "Accuracy": 0.7792,
+            "Precision": 0.7308,
+            "Recall": 0.6552,
+            "F1 Score": 0.6909
+        }
+    },
+    "SVM": {
+        "Cross Validation Accuracy": 0.8013,
+        "train": {
+            "Accuracy": 0.8111,
+            "Precision": 0.825,
+            "Recall": 0.7279,
+            "F1 Score": 0.7734
+        },
+        "test": {
+            "Accuracy": 0.7792,
+            "Precision": 0.7308,
+            "Recall": 0.6552,
+            "F1 Score": 0.6909
+        }
+    },
+    "XGBoost": {
+        "Cross Validation Accuracy": 0.7619,
+        "train": {
+            "Accuracy": 0.9381,
+            "Precision": 0.9466,
+            "Recall": 0.9118,
+            "F1 Score": 0.9288
+        },
+        "test": {
+            "Accuracy": 0.8052,
+            "Precision": 0.7917,
+            "Recall": 0.6552,
+            "F1 Score": 0.717
+        }
+    },
+    "CatBoost": {
+        "Cross Validation Accuracy": 0.7978,
+        "train": {
+            "Accuracy": 0.8143,
+            "Precision": 0.8264,
+            "Recall": 0.7353,
+            "F1 Score": 0.7782
+        },
+        "test": {
+            "Accuracy": 0.7792,
+            "Precision": 0.7308,
+            "Recall": 0.6552,
+            "F1 Score": 0.6909
+        }
+    }
+}
